@@ -1,4 +1,4 @@
-# 🚀 Anti-Gravity - Application Révolutionnaire pour Élèves du Lycée au Cameroun
+# 🚀  NexaSchool- Application Révolutionnaire pour Élèves du Lycée au Cameroun
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,7 +6,7 @@
 
 ## 📋 Vue d'ensemble
 
-**Anti-Gravity** est une application mobile et web complète, moderne et futuriste destinée aux élèves du lycée au Cameroun. Elle regroupe toutes les fonctionnalités essentielles pour réussir sa scolarité :
+** NexaSchool** est une application mobile et web complète, moderne et futuriste destinée aux élèves du lycée au Cameroun. Elle regroupe toutes les fonctionnalités essentielles pour réussir sa scolarité :
 
 - ✅ Gestion des matières et emploi du temps
 - ✅ Suivi des notes avec moyennes automatiques
@@ -328,14 +328,14 @@ function NotificationsScreen() {
 - Emploi du temps
 - Accès limité aux cours
 
-### Premium Basic (2500 FCFA/mois)
+### Premium Basic (1000 FCFA/mois)
 - Génération PDF illimitée
 - Stockage cloud 5 GB
 - Statistiques avancées
 - Accès épreuves antérieures
 - Support prioritaire
 
-### Premium Plus (5000 FCFA/mois)
+### Premium Plus (2500 FCFA/mois)
 - Tout du plan Basic
 - Assistant IA GravBot illimité
 - Correcteur automatique
@@ -343,7 +343,7 @@ function NotificationsScreen() {
 - Sessions d'étude collaborative
 - Stockage cloud 20 GB
 
-### Premium Elite (10000 FCFA/mois)
+### Premium Elite (5000 FCFA/mois)
 - Tout du plan Plus
 - Professeur virtuel 24/7
 - Accès réalité augmentée
@@ -414,9 +414,6 @@ Merci à tous les contributeurs et à la communauté éducative camerounaise pou
 
 **Fait avec ❤️ pour les élèves du Cameroun**
 
-🚀 **Anti-Gravity - Révolutionner l'éducation au Cameroun**
+🚀 ** NexaSchool - Révolutionner l'éducation au Cameroun**
 # NexaSchool-
-# NexaSchool-
-# NexaSchool-
-# NexaSchool-
-# NexaSchool-
+
