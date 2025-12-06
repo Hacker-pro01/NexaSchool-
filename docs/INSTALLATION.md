@@ -1,4 +1,4 @@
-# 📦 Guide d'Installation - Anti-Gravity
+# 📦 Guide d'Installation - Nexaschool 
 
 ## 🔧 Prérequis
 
@@ -19,8 +19,8 @@ Avant de commencer, assurez-vous d'avoir installé :
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/anti-gravity/anti-gravity.git
-cd anti-gravity
+git clone https://github.com/NexaSchool/NexaSchool.git
+cd NexaSchool 
 ```
 
 ### 2. Installer les dépendances
@@ -49,8 +49,8 @@ APP_ENV=development
 DEBUG=true
 
 # API
-API_BASE_URL=https://api.anti-gravity.cm
-GRAVBOT_API_URL=https://api.anti-gravity.cm/gravbot
+API_BASE_URL=https://api.Nexaschool.cm
+GRAVBOT_API_URL=https://api.Nexaschool.cm/gravbot
 
 # Clés API (obtenir auprès des fournisseurs)
 OPENAI_API_KEY=sk-...
@@ -73,7 +73,7 @@ FIREBASE_APP_ID=...
 # Base de données (si backend local)
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=anti_gravity
+DB_NAME=Nexaschool 
 DB_USER=postgres
 DB_PASSWORD=...
 ```
