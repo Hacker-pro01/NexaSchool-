@@ -1,4 +1,4 @@
-# 🚀  NexaSchool- Application Révolutionnaire pour Élèves du Lycée au Cameroun
+# 🚀  NexaSchool- Application Révolutionnaire pour Élèves et Etudiant
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,7 +6,7 @@
 
 ## 📋 Vue d'ensemble
 
-** NexaSchool** est une application mobile et web complète, moderne et futuriste destinée aux élèves du lycée au Cameroun. Elle regroupe toutes les fonctionnalités essentielles pour réussir sa scolarité :
+** NexaSchool** est une application mobile et web complète, moderne et futuriste destinée aux élèves et Etudiant. Elle regroupe toutes les fonctionnalités essentielles pour réussir sa scolarité :
 
 - ✅ Gestion des matières et emploi du temps
 - ✅ Suivi des notes avec moyennes automatiques
